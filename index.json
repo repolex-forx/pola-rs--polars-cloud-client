@@ -1,0 +1,11 @@
+{
+  "org": "pola-rs",
+  "repo": "polars-cloud-client",
+  "versions": [
+    {
+      "commit": "0ac61f7239e05285164d1fa9779a1c96b30a5a86",
+      "tag": "client-0.12.0",
+      "parsed_at": "2026-10-10T04:37:26.611753+00:00"
+    }
+  ]
+}
