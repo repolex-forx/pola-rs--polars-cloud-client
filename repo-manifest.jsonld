@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pola-rs/polars-cloud-client/commit/0ac61f7239e05285164d1fa9779a1c96b30a5a86",
       "git:hexsha": "0ac61f7239e05285164d1fa9779a1c96b30a5a86",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "client-0.12.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "client-0.12.0",
+      "repolex:parsedAt": "2026-10-10T04:37:26.611244+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pola-rs/polars-cloud-client/commit/a7181933ed6f29ddaaf9eb81cab67aee2427f3a5",
